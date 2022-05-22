@@ -13,6 +13,9 @@ A JavaFX program to interface with a database of stores, factories, clients and 
             <version>8.0.29</version>
         </dependency>
 ```
+## Requrements
+JavaFX
+enter your database information into dat/database.properties file
 ## tables
 ```sql
 CREATE TABLE `address` (
